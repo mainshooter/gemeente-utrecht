@@ -18,7 +18,6 @@
       );
 
       $result = $DatabaseHandler->CreateData($sql, $input);
-      var_dump($result);
   }
 
   else {
